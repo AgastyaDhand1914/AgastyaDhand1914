@@ -5,13 +5,13 @@
 
 - Finding my interests in the field of **Machine Learning** :)
 
-- Nowadays exploring **Generative AI and Agents**
+- Nowadays exploring **Generative AI**
 
 - Currently learning **MERN stack**
   
 - Reach me at: **agastyadhand@gmail.com**
   
-- Connect with me: <a href='https://www.linkedin.com/in/agastya-dhand-16613a376/'>LinkedIn</a> (recently created!)
+- Connect with me: <a href='https://www.linkedin.com/in/agastya-dhand-16613a376/'>LinkedIn</a> (recently created, would love to connect!)
 
 - Other Links: <a href='https://leetcode.com/u/AgastyaDhand1914/'>Leetcode</a>
 
